@@ -108,7 +108,7 @@ def main() -> None:
             print_menu(menu)
 
             crypto_option = int(input("Enter a number: ").strip().rstrip())
-            if crypto_option not in range(1, 16):
+            if crypto_option not in range(1, len(menu)):
                 raise NotImplementedException
 
             clear_screen()
