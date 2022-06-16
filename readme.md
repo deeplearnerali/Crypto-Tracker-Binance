@@ -1,7 +1,7 @@
 # Crypto Tracker (Binance)
 ## _Track Crypto Prices Through Python !_
 
-[![N|Solid](https://public.bnbstatic.com/image/cms/blog/20200217/fa9cfaa9-0ac9-4b62-baef-eb1b7acd42e8)](https://nodesource.com/products/nsolid)
+![download](https://user-images.githubusercontent.com/47928398/174155643-5af397ee-8770-4da1-afed-b76e9ead062f.jpg)
 
 
 Binance is a major crypto exchange with an API that displays crypto prices, alerts and more which we have implemented in GoodCrypto for convenience and a fun little project for beginners !
